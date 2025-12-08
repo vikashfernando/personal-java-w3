@@ -33,5 +33,4 @@ public class Main107{
         System.out.println(myObj.name);
         System.out.println("her name is "+myObj.name+" and her age is "+myObj.age);
     }
-
 }
