@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2 parameters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3 return" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4 method-Overloading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5 scope" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
