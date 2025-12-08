@@ -4,13 +4,14 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/1 methods" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2 parameters" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/3 return" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4 method-Overloading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2 method-parameters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 method-return" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 method-overloading" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/6 recursion (check)" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/7 OOP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7 oop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8 classes-objects" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8 classes-objects/objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9 class-attributes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
