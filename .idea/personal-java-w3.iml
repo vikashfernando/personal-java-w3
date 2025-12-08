@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/4 method-Overloading" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/6 recursion (check)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/7 OOP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8 classes-objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8 classes-objects/objects" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
