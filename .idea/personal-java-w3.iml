@@ -20,6 +20,7 @@
       <sourceFolder url="file://$MODULE_DIR$/15 encapsulation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/16 packages(check)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/17 inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18 polymorphism" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
