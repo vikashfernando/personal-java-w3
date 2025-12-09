@@ -1,4 +1,29 @@
 /*
+my note
+
+What is a Modifier?
+    A modifier is a keyword that controls:
+        Who can use a class
+        Who can use a variable
+        Who can use a method
+
+Two Types of Modifiers
+    Access Modifiers
+        These control who can access the code.
+            public - Anyone can use it
+            private	- Only inside the same class
+            protected - Same package + child classes
+            default (no word) - Same package only
+
+ */
+
+
+
+
+/*
+
+
+
 "public" class main
     public keyword is an access modifier
     (it is used to set the access level for classes,attributes,methods and constructors)
