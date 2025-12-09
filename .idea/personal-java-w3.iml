@@ -21,6 +21,9 @@
       <sourceFolder url="file://$MODULE_DIR$/16 packages(check)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/17 inheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/18 polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19 super-keyword(check)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20 inner-classes(check)" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/21 abstraction" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
