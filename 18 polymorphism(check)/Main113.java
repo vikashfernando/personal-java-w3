@@ -32,7 +32,7 @@ class Cat extends Animal{                                   //child
     }
 }
 
-public class Main110{
+public class Main113 {
     public static void main(String[] args){
         Animal o1=new Animal();
         Animal o2=new Dog();

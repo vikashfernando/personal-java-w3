@@ -22,12 +22,11 @@ class Dog1 extends Animal1{         //a subclass of Animal class
     }
 }
 
-public class Main113{
+public class Main116 {
     public static void main(String[] args){
         Dog1 o1=new Dog1();
 
         o1.sleep();
         o1.animalSound();
-
     }
 }
