@@ -20,6 +20,7 @@ IRL example:
     You use buttons(methods)
  */
 
+
 public class Main111{
     public static void main(String[] args){
         Person p1=new Person();
