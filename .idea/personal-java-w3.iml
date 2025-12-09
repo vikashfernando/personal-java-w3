@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/20 inner-classes(check)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/21 abstraction(check)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/22 interface(check)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26 user-input" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
