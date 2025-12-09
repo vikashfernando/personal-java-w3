@@ -20,7 +20,7 @@ Access modifiers for attributes,methods and constructors
 public class Main109{             //main class
     public static void main(String[] args){
 
-        Strawberries myObj=new Strawberries();  
+        Strawberries myObj=new Strawberries();
 
         //accessing attributes from Main109 class
         System.out.println(myObj.x);

@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/8 classes-objects/objects" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9 class-attributes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13 access-modifierse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 non-access modifiers(modifiers)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
